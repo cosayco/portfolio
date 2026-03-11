@@ -1,0 +1,12 @@
+body {
+  min-height: 100vh;
+}
+
+main {
+  height: 100vh;
+  max-height: 100vh;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+  
